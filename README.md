@@ -43,7 +43,7 @@ console "/usr/bin/adventure" do
   )
 end
 ````
-Note: this example is include in the example.rb recipe.
+Note: this example is included in the example.rb recipe.
 
 ## License and Author
 Author:: [Luke Bradbury](<mailto:luke.bradbury@derby.ac.uk>) [@hanskreuger](https://twitter.com/hanskreuger)
