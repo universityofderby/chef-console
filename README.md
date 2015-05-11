@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/universityofderby/chef-console.png?label=ready&title=Ready)](https://waffle.io/universityofderby/chef-console)
 # Console Chef LWRP
 ## Description
 Resource for console automation interaction built on greenletters, https://github.com/avdi/greenletters
